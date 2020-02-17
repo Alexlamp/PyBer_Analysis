@@ -12,11 +12,11 @@ Create a multiple-line graph.
 Annotate and apply styling to the chart.
 
 ### Materals 
-Python 3.7.4
-Anaconda Navigator 1.9.7
-Jupyter Notebook 6.0.1
-city_data.csv 
-ride_data.csv
+Python 3.7.4 <br /> 
+Anaconda Navigator 1.9.7 <br /> 
+Jupyter Notebook 6.0.1 <br /> 
+city_data.csv <br /> 
+ride_data.csv <br /> 
 
 ### Summary
 Through my analysis of the ridesharing data using Python and Matplotlib I have uncovered that there are significant differences in the data based on location. According to the dataframe, Rural cities have the lowest total rides, lowest total drivers and lowest total fares. There is significant evidence to show that this low activity leads rural cities to have the highest average fare per ride and the highest average fare per driver. On the other end of the spectrum, urban cities have the highest total rides, highest total drivers and highest total fares. There is significant evidence to show that this high activity leads urban cities to have the lowest average fare per ride and the lowest average fare per drive. With suburban cities, we can see that their data is in the middle of the urban and rural cities. 
